@@ -7,5 +7,7 @@
 			"path": "..\\Learning Material"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Learning Material"
+	}
 }
